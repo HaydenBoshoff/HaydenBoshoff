@@ -6,9 +6,7 @@
 
 
 <h3 align="center">I am an aspiring Python developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" height=350 src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
-
-- 🔭 I’m currently working on building my portfolio and bettering my skills.
+<img align="right" alt="Coding" width="420" height=320 src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 🌱 I’m currently learning Python.
 
