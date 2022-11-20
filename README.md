@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning Python.
 
-- ⚡ Fun fact: I love sushi.
-
 - 📫 How to reach me **hayden.boshoff@gmail.com**
 
 
