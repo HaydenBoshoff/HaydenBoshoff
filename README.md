@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://discord.gg/https://discord.gg/cn5Ern4y4C" target="blank">
+  <a href="https://discord.gg/https://discord.gg/8dcdRBqqRY" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8dcdRBqqRY" height="30" width="40" /></a>
 </p>
 
