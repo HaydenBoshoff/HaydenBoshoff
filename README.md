@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://discord.gg/https://discord.gg/cn5Ern4y4C" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cn5Ern4y4C" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8dcdRBqqRY" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
