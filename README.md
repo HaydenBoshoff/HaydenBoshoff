@@ -5,12 +5,12 @@
 </h1>
 
 
-<h3 align="center">I am an aspiring Python developer from South Africa</h3>
+<h3 align="center">Software and Game Development is my Hobby!</h3>
 <img align="right" alt="Coding" width="420" height=320 src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-- 🌱 I’m currently learning Python.
+- 💻 Programming in C# and Python
 
-- 📫 How to reach me **hayden.boshoff@gmail.com**
+- 📩 How to reach me **hayden.boshoff@gmail.com**
 
 
 
@@ -24,6 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
